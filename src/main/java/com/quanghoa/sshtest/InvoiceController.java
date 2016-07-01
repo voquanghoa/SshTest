@@ -21,7 +21,7 @@ public class InvoiceController {
                 "    <invoice-number>23432</invoice-number>\n"+
                 "    <order-number>1223</order-number>\n"+
                 "    <contract-number>343</contract-number>\n"+
-                "    <due-date>12/31/2009</due-date>\n"+
+                "    <due-date>08/08/2009</due-date>\n"+
                 "    <amount currency='USD'>459000</amount>\n"+
                 "    <status>Paid</status>\n"+
                 "  </invoice>\n"+
@@ -29,7 +29,7 @@ public class InvoiceController {
                 "    <invoice-number>23456</invoice-number>\n"+
                 "    <order-number>1201</order-number>\n"+
                 "    <contract-number>371</contract-number>\n"+
-                "    <due-date>01/31/2010</due-date>\n"+
+                "    <due-date>01/09/2010</due-date>\n"+
                 "    <amount currency='USD'>76000</amount>\n"+
                 "    <status>Paid</status>\n"+
                 "  </invoice>\n"+
